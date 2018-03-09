@@ -1,1 +1,1 @@
-# druid-java-client
+一个spring-boot项目，用于操作druid。
