@@ -1,1 +1,1 @@
-一个spring-boot项目，用于操作druid。
+用于操作druid,基于spring-boot搭建。
